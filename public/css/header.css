@@ -1,0 +1,22 @@
+header{
+    width: 100%;
+
+}
+
+header img{
+    border-radius: 50% ;
+    border-color: solid 1px #92908b;
+    margin: 30px auto;
+    display: block;
+}
+
+header a.btn-burger{
+    width: 50px;
+    padding: 5px;
+    background-color: #63645d;
+    display:block;
+    color: #ebebeb;
+    font-size: 32px;
+    margin: auto;
+    text-align: center;
+}
