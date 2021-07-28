@@ -4,3 +4,54 @@
 .home .banner{
     display: none;
 }
+
+/*productos*/
+
+.home .producto{
+    width: 100%;
+    margin-top: 20px;
+    position: relative;
+}
+
+.home .img-box{
+    position: relative;
+}
+
+.home .img-foto{
+    width: 100%;
+}
+
+.home .btn-zoom{
+    position: absolute;
+    top: calc(50% - 10px);
+    left: 0;
+    text-transform: uppercase;
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, .5);
+    display: block;
+    width: 100%;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.home .img-etiqueta{
+    position: absolute;
+    top: 0;
+    right: 10px;
+}
+
+.home .producto h4{
+    margin: 20px;
+}
+
+.home .producto p{
+    color: var(--colorGris)
+}
+
+.home .btn-more{
+padding: 10px;
+color: #ffffff;
+background-color: #63645d;
+
+}
+

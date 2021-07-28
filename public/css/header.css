@@ -27,7 +27,7 @@ header li{
     text-align: center;
 }
 
-header li{
+header li a{
     color: #FFFFFF;
     text-transform: uppercase;
 }
